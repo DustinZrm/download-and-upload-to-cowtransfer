@@ -1,2 +1,1 @@
-https://repo.jellyfin.org/releases/server/centos/stable/web/jellyfin-web-10.6.2-1.el7.noarch.rpm
-https://repo.jellyfin.org/releases/server/centos/stable/server/jellyfin-server-10.6.2-1.el7.x86_64.rpm
+https://github.com/dunnousername/yanderifier/releases/download/v4.0.3-stable/yanderify.zip
